@@ -45,6 +45,13 @@ A NeoVim personalized development evironment with a ronin aesthetic.
 nvim +Tutor
 ```
 
+## Config Files
+
+neovim    --> ${HOME}/.config/nvim
+tmux      --> ${HOME}/.config/tmux
+wezterm   --> ${HOME}/.config/wezterm
+starship  --> ${HOME}/.config/starship
+
 ## Key Mappings
 
 To view 'lead' mappings, open **nvim** and press `<Space>`:
@@ -65,6 +72,11 @@ To view 'lead' mappings, open **nvim** and press `<Space>`:
 | `<Ctrl>` h   | Next window, left                |
 | `<Ctrl>` j   | Next window, down                |
 | `<Ctrl>` k   | Next window, up                  |
+
+neovim: help map
+tmux list-keys
+wezterm show-keys
+bash: alias
 
 > Download the [NeoVim Cheet Sheet][cheatsheet] for more NeoVim commands
 
