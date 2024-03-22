@@ -642,7 +642,7 @@ local purple_tile = wezterm.config_dir .. "/purple_tile.png"
 local config = {
 	initial_cols = 112,
 	initial_rows = 34,
-	enable_tab_bar = false,
+	enable_tab_bar = true,
 	-- font = wezterm.font(RandomFont() .. " Nerd Font", { weight = "Regular" }),
     --[[ font = wezterm.font_with_fallback({
         {family="SauceCodePro Nerd Font", weight="DemiBold"},
