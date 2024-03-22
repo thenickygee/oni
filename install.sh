@@ -5,10 +5,10 @@ executeByOSType() {
 
     case "$OS_TYPE" in
         Linux)
-            /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/josephbharrison/oni/HEAD/linux-install.sh)"
+            /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/thenickygee/oni/HEAD/linux-install.sh)"
             ;;
         Darwin)
-            /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/josephbharrison/oni/HEAD/macos-install.sh)"
+            /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/thenickygee/oni/HEAD/macos-install.sh)"
             ;;
         FreeBSD)
             echo "Unsupported OS: FreeBSD"

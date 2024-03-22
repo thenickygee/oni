@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/josephbharrison/oni/main/images/logo-small.png"/>
+<img src="https://raw.githubusercontent.com/thenickygee/oni/main/images/logo-small.png"/>
 </p>
 
 # Oni
@@ -11,7 +11,7 @@ A NeoVim personalized development evironment with a ronin aesthetic.
 ## Installation
 
 ```sh
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/josephbharrison/oni/HEAD/install.sh)"
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/thenickygee/oni/HEAD/install.sh)"
 ```
 ![installer][installer]
 
@@ -84,12 +84,12 @@ Update the _user_ configuration file: `~/.config/nvim/lua/user/init.lua`
 ![desktop2][desktop2]
 ![screen][screen]
 
-[logo]: https://raw.githubusercontent.com/josephbharrison/oni/main/images/logo.png
-[logo-small]: https://raw.githubusercontent.com/josephbharrison/oni/main/images/logo-small.png
-[desktop]: https://raw.githubusercontent.com/josephbharrison/oni/main/images/desktop.png
-[desktop2]: https://raw.githubusercontent.com/josephbharrison/oni/main/images/desktop2.png
-[screen]: https://raw.githubusercontent.com/josephbharrison/oni/main/images/screen.png
-[mappings]: https://raw.githubusercontent.com/josephbharrison/oni/main/images/mappings.png
-[installer]: https://raw.githubusercontent.com/josephbharrison/oni/main/images/installer.png
+[logo]: https://raw.githubusercontent.com/thenickygee/oni/main/images/logo.png
+[logo-small]: https://raw.githubusercontent.com/thenickygee/oni/main/images/logo-small.png
+[desktop]: https://raw.githubusercontent.com/thenickygee/oni/main/images/desktop.png
+[desktop2]: https://raw.githubusercontent.com/thenickygee/oni/main/images/desktop2.png
+[screen]: https://raw.githubusercontent.com/thenickygee/oni/main/images/screen.png
+[mappings]: https://raw.githubusercontent.com/thenickygee/oni/main/images/mappings.png
+[installer]: https://raw.githubusercontent.com/thenickygee/oni/main/images/installer.png
 
 # oni
